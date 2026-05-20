@@ -1,2 +1,9 @@
-# fast-image-resizer-lab-49
-A simple image resizer project
+# Image Resizer
+
+A simple image resizer project.
+\n
+## Getting Started
+
+```bash
+python image.py
+```
